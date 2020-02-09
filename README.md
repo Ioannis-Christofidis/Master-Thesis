@@ -14,10 +14,11 @@ matplotlib.animation
 
 ### Purpose of this project
 
-    The main goal of our research is to try to answer a difﬁcult question, what is the physical mechanism behind the Northern Annular Mode? 
- What factors are behind this index? A signiﬁcant variable that will help us to interpret this index is the meridional mass ﬂux in 
- isentropic coordinates and the cross isentropic mass ﬂux. The initial stimulation of this research is that NAM index is related
- with the meridional isentropic massﬂux,which,in turn,may be related to the zonal mean location of cross isentropic mass ﬂux. 
+ The main goal of our research is to try to answer a difﬁcult question, what is the physical mechanism behind the 
+ Northern Annular Mode? What factors are behind this index? A signiﬁcant variable that will help us 
+ to interpret this index is the meridional mass ﬂux in isentropic coordinates and the cross isentropic mass ﬂux. 
+ The initial stimulation of this research is that NAM index is related with the meridional isentropic massﬂux,
+ which,in turn,may be related to the zonal mean location of cross isentropic mass ﬂux. 
  Our analysis leads us to observe a correlation of the meridional mass ﬂux with the NAM index.
  
  ###File Description
