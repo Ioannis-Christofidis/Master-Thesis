@@ -27,13 +27,13 @@ matplotlib.animation
 
 2) MassfluxztmJ: Visualization of the zonal mean, time mean of meridional mass flux in Junuary
 
-3)PV-analysis: Estimation of potential vorticity  in different layers in January
+3) PV-analysis: Estimation of potential vorticity  in different layers in January
 
-4)PCA-6 components: PCA analysis of our meteorological variables
+4) PCA-6 components: PCA analysis of our meteorological variables
 
-5)massflux_zonalindexJ: Analysis and visualization of meridional mass flux and NAM index
+5) massflux_zonalindexJ: Analysis and visualization of meridional mass flux and NAM index
 
-6)massflux-namindex-January-Atlanti: Analysis and visualization of meridional mass flux and nam index  in January in the region of Atlantic ocean
+6) massflux-namindex-January-Atlanti: Analysis and visualization of meridional mass flux and nam index  in January in the region of Atlantic ocean
 
  ### Results
  
